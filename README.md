@@ -7,8 +7,7 @@ A new Flutter project.
 ChatGPT clone using GEMINI API and CHATGPT API.  
 
 ## Place your own GEMINI API and CHATGPT API in the code to run.
-## Location for API's
-lib/consts/API_key.dart
+## Location for API's ==> lib/consts/API_key.dart
 
 A few resources to get you started if this is your first Flutter project:
 
